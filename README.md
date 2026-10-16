@@ -1,3 +1,7 @@
+> [!WARNING]
+> This wasmCloud fork is archived and is no longer maintained. It receives no bug fixes or security updates.
+> Use the maintained upstream repository, [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime), for Wasmtime releases, development, and security reporting.
+
 <div align="center">
   <h1><code>wasmtime</code></h1>
 
